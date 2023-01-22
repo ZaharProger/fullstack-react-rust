@@ -1,0 +1,8 @@
+#Content > span {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 3.2em;
+    text-align: center;
+    font-weight: bold;
+    color: #8a2be2;
+    transition: 0.3s ease-out;
+}

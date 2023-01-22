@@ -1,0 +1,21 @@
+#Navbar {
+    width: fit-content;
+    background-color: #8a2be2;
+    border-radius: 20px;
+    box-shadow: 0 3px 2px #5e1d9b;
+}
+
+#Navbar > i {
+    cursor: pointer;
+    font-size: 2em;
+    color: white;
+    transition: 0.3s ease-out;
+}
+
+#Navbar > i:hover {
+    color: #f969fe;
+}
+
+.active {
+    color: #f969fe!important;
+}
